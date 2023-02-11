@@ -1,4 +1,4 @@
-# Decional Point
+# Decisional Point
 
 At Decisional Point, our mission is to create the digital bioprocess solutions that empower you with the data and insights to make smart, cost-effective and sustainable decisions about your bioprocess strategy across the value chain.
 
